@@ -1,11 +1,9 @@
 
-
-
 # Convolutional Neural Networks
 
 ## Authors
 
-Manish Kumar Panday – [[GitHub link here]()]  
+Manish Kumar Panday – [[GitHub link here](https://github.com/0906manish)]  
 Anne Valvezan – [[GitHub link here](https://github.com/coffeedrunkpanda)]
 
 ## Project Overview
